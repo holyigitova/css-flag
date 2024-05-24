@@ -1,0 +1,22 @@
+#russian{
+    width: 180px;
+    height: 40px;
+    border-top: 40px solid white;
+    border-bottom: 40px solid #d52b1e;
+    background-color: #0039a6;
+}
+
+#avstriya{
+    width: 125px;
+    height: 25px;
+    border-top: 25px solid red ;
+    border-bottom: 25px solid red ;
+}
+
+#polsha{
+    width:160px;
+    height: 50px;
+    border-top:50px solid #ffffff ;
+    border-bottom:50px solid #d4213d
+
+}
